@@ -97,6 +97,6 @@ Note for modified ROM users: The app may or may not work depending on app's depe
 * Starting OneUI6.0, installing the app on OneUi6.0 requires doing it via ADB using this command:
   * `adb install --bypass-low-target-sdk-block galaxy_max_hz_v8.1.apk`
 * You also need to _Allow restricted settings_ to the app:
-  * Open Galaxy MaxHz > Go to _About app_ in top right menu > Click the info (i) icon > Click top right menu in the window that will open > Click _Allow restricted settings_.
+  * Open Settings > Apps > Galaxy MaxHz > Click top right menu in the window that will open > Click _Allow restricted settings_.
 
 [Contact developer](mailto:tribalfs@gmail.com?subject=[GitHub]%20Galaxy%20MaxHz)
