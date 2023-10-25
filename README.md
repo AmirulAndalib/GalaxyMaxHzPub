@@ -72,19 +72,19 @@ Galaxy MaxHz[^2]
 
 [^2]: [Downloads](https://github.com/tribalfs/GalaxyMaxHzPub/releases)
 
-[^3]: Extra steps required for some devices.  After selecting Adaptive or High mode while on power saving mode, either:
-       - Do a dummy (fake) video call to any number using the [native video call app](https://user-images.githubusercontent.com/65062033/216779623-7e7d78f1-e6cc-421a-8ab3-02f1d2712dec.png) (not google duo; availability depends on SIM/mobile plan support);
+[^3]: Extra steps required for some devices.  After selecting Adaptive or High mode while on power saving mode, do any of the following methods:
+       - Video call method: Do a dummy (fake) video call to any number using the [native video call app](https://user-images.githubusercontent.com/65062033/216779623-7e7d78f1-e6cc-421a-8ab3-02f1d2712dec.png) (not google duo; availability depends on SIM/mobile plan support);
        
-       - Game booster method. First, open Game Booster settings and ensure "Save power during touch protection" is turned on AND "Shortcut bar" is also turned on OR "Floating shortcut" is set to Touch Protection.
+       - Game booster method: First, open Game Booster settings and ensure "Save power during touch protection" is turned on AND "Shortcut bar" is also turned on OR "Floating shortcut" is set to Touch Protection.
        Here are the steps:
         1. Select Adaptive Mode while on power saving mode
         2. Open any game (preferably from game launcher)
         3. Press the [touch protection button](https://forum.xda-developers.com/attachments/1676681590219-png.5839707/)(lock icon) in the floating shortcut bar and wait for the screen to dim ("Drag lock icon to unlock" text will fade)
         4. Touch the screen and unlock;
 
-       - Connect and disconnect to a wifi display receiver (e.g. smart tv, chromecast, windows laptops) using the Smart View function; OR
+       - SmartView Method: Connect and disconnect to a wifi display receiver (e.g. smart tv, chromecast, windows laptops) using the SmartView function; OR
        
-       - Connect and disconect to Samsung Dex on TV using an HDMI cable or Samsung Dex on PC using USB data cable. Connect the phone and confirm "Start now" prompt and disconnect once Samsung Dex has started. 
+       - Dex Method: Connect and disconect to Samsung Dex on TV using an HDMI cable or Samsung Dex on PC using USB data cable. Connect the phone and confirm "Start now" prompt and disconnect once Samsung Dex has started. 
 
  
 
