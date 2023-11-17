@@ -93,11 +93,6 @@ Note for modified ROM users: The app may or may not work depending on app's depe
 
 ##### Only Samsung devices are officially supported. Features may or may not work on other devices.
 
-#### Important Notes for OneUI6.0 (Android14) :
-* Starting OneUI6.0, installing the app on OneUi6.0 requires doing it via ADB using this command:
-  * `adb install --bypass-low-target-sdk-block galaxy_max_hz_v8.1.apk`
-  * If using ADB for the first time, check steps 1 to 6 of this [guide](https://github.com/tribalfs/GalaxyMaxHzPub/wiki/How-to-grant-WRITE_SECURE_SETTINGS)
-* You also need to _Allow restricted settings_ to the app:
-  * Open Settings > Apps > Galaxy MaxHz > Click top right menu in the window that will open > Click _Allow restricted settings_.
+#### [Important Notes for installing it on OneUI6.0(Android14) and above](https://github.com/tribalfs/GalaxyMaxHzPub/releases#:~:text=is%20already%20shown.-,Installation%20Notes%20for%20OneUI6.0%20(Android14),-%3A):
 
 [Contact developer](mailto:tribalfs@gmail.com?subject=[GitHub]%20Galaxy%20MaxHz)
